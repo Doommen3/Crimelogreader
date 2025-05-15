@@ -23,7 +23,7 @@ def download_pdf(url, save_path):
         # Handle other potential errors (e.g., network issues, I/O errors)
         print(f"An error occurred: {e}")
 
-months = ["08", "09", "10", "11", "12"]
+months = ["01"]
 
 for value in months:
     for date in range(1, 32):
@@ -36,7 +36,7 @@ for value in months:
 print(saved_dates)
 
 for item in saved_dates:
-    date = "2023" + item
+    date = "2025" + item
     full_date.append(date)
 
 for item in full_date:

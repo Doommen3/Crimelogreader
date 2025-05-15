@@ -3,7 +3,7 @@ library(readr)
 
 
 
-data <- read_csv("~/carcrashreader_app/df_output.csv")
+data <- read_csv("/Users/devin/NIU_CrimeLogReader/df_output.csv")
 
 data$Disposition <- gsub("^(am |pm )", "", data$Disposition)
 
@@ -37,7 +37,7 @@ data$New_Column <- new_cols[, 2]
 
 
 
-write_csv(data, "final_crimelogcsv.csv")
+write_csv(data, "final_crimelogcsv_1_25.csv")
 
 
 
@@ -103,5 +103,5 @@ data %>%
 
 location_sort <- location_sort[1:10,]
 
-write_csv(location_sort, "location.csv")
+write_csv(location_sort, "location_1_25.csv")
 

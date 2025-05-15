@@ -4,6 +4,8 @@ import pandas as pd
 import numpy as np
 import os
 import csv
+import pdfplumber
+
 #from crimesprocessing import *
 from crimesprocessing import *
 
@@ -107,6 +109,6 @@ def main(folder_path):
 
 if __name__ == '__main__':
 
-    folder_path = "/Users/devin/carcrashreader_app/crime_pdfs"
+    folder_path = "/Users/devin/carcrashreader_app/12_24_crimes"
     main(folder_path)
 

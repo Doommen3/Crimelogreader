@@ -1,0 +1,12 @@
+name: NIU_Crime_Map
+title: NIU_Crime_Map
+username: devinoommen
+account: devinoommen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13662996
+bundleId: 9771992
+url: https://devinoommen.shinyapps.io/NIU_Crime_Map/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

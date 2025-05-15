@@ -1,0 +1,60 @@
+...1,Case Number,Offense,Date Reported,Time Reported,Date Occurred,Time Occurred,Location,Disposition,Disposition Date,Location Address,Current_Column,New_Column
+0,2024015945,Leaving Scene Property Damage,12/2/2024,05:13:00,12/1/2024,09:40:00,NA,Lot P Open,12/02/2024,0,Lot P,Open
+1,2024015564,Contributing To Depend./Neglect,11/22/2024,07:45:00,11/22/2024,07:46:00,NA,Holmes Student Center Referred To,12/03/2024,0,Holmes Student Center,Referred To
+2,2024015971,Leaving Scene Property Damage,12/3/2024,10:52:00,12/3/2024,12:00:00,"12/3/2024 Health, Wellness, & Literacy Center Open 12/03/2024",Unknown,12/03/2024,0,Unknown,NA
+3,2024016094,"Tamper w/Sec, Fire, or Life Safety",12/3/2024,18:00:00,11/27/2024,13:00:00,NA,Patterson Hall East Suspended,12/03/2024,0,Patterson Hall East,Suspended
+4,2024016015,Leaving Scene Property Damage,12/4/2024,10:24:00,12/4/2024,10:24:00,NA,Lot 3 Open,12/04/2024,0,Lot 3,Open
+5,2024016027,Leaving Scene Property Damage,12/4/2024,01:23:00,12/4/2024,01:23:00,NA,Lot S Suspended,12/04/2024,0,Lot S,Suspended
+6,2024014844,Unlawful Use Of Weapon,11/9/2024,11:27:00,11/9/2024,11:27:00,NA,Holmes Student Center Closed By,12/05/2024,0,Holmes Student Center,Closed By
+7,2024014844,Unauthorized Possession or Storage of,11/9/2024,11:27:00,11/9/2024,11:27:00,NA,Closed By,12/05/2024,Unknown,,Closed By
+8,2024016103,Battery,12/5/2024,11:05:00,12/5/2024,11:05:00,NA,Founders Memorial Library Closed By,12/05/2024,0,Founders Memorial Library,Closed By
+9,2024016112,Harassment through Electronic,12/5/2024,02:31:00,12/5/2024,02:31:00,NA,Closed By,12/05/2024,0,,Closed By
+10,2024016219,Battery,12/7/2024,02:47:00,12/7/2024,04:35:00,NA,Open,12/07/2024,0,,Open
+11,2024016248,Criminal Trespass To Real Property,12/7/2024,04:55:00,12/7/2024,04:55:00,NA,Recreation Center Suspended,12/07/2024,0,Recreation Center,Suspended
+12,2024007759,Criminal Damage To Property,6/20/2024,09:24:00,6/18/2024,16:30:00,NA,Music Building Suspended,12/09/2024,0,Music Building,Suspended
+13,2024007759,Criminal Trespass To Real Property,6/20/2024,09:24:00,6/18/2024,16:30:00,NA,Suspended,12/09/2024,Unknown,,Suspended
+14,2024016342,Battery,12/9/2024,15:57:00,11/24/2024,12:30:00,NA,Culvers 1200 DeKalb Ave,11/24/2024,0,Culvers 1200 DeKalb Ave,NA
+15,2024016343,Theft $500 and Under,12/9/2024,16:43:00,12/9/2024,03:30:00,NA,Neptune North Suspended,12/09/2024,0,Neptune North,Suspended
+16,2024016397,Criminal Damage To Property,12/10/2024,10:46:00,11/24/2024,12:30:00,NA,Lot 5 Suspended,12/10/2024,0,Lot 5,Suspended
+17,2024016407,Identity Theft,12/10/2024,04:18:00,12/9/2024,12:00:00,NA,Human Resources Open,12/10/2024,0,Human Resources,Open
+18,2024016407,Computer Fraud,12/10/2024,04:18:00,12/9/2024,12:00:00,NA,Open,12/10/2024,Unknown,,Open
+19,2024016432,Possess Cannabis <10,12/10/2024,11:52:00,12/10/2024,11:45:00,NA,Closed By,12/10/2024,0,,Closed By
+20,2024016471,Battery,12/11/2024,06:18:00,12/11/2024,06:18:00,NA,Recreation Center Open,12/11/2024,0,Recreation Center,Open
+21,2024001670,Theft Over $500,2/7/2024,09:33:00,2/7/2024,09:33:00,NA,Grant Complex Suspended,12/13/2024,0,Grant Complex,Suspended
+22,2024016551,Battery,12/13/2024,12:41:00,12/13/2024,12:00:00,NA,Stevenson South Unfounded,12/13/2024,0,Stevenson South,Unfounded
+23,2024016560,Theft $500 and Under,12/13/2024,03:36:00,12/13/2024,03:36:00,NA,Grant North Open,12/13/2024,0,Grant North,Open
+24,2024011139,Theft $500 and Under,9/3/2024,19:48:00,9/3/2024,19:45:00,NA,Stevenson South Suspended,12/14/2024,0,Stevenson South,Suspended
+25,2024016603,Criminal Trespass To Vehicle,12/14/2024,15:27:00,12/13/2024,17:50:00,NA,Lot D Open,12/14/2024,0,Lot D,Open
+26,2024016737,"Tamper w/Sec, Fire, or Life Safety",12/14/2024,23:46:00,12/14/2024,23:46:00,NA,Stevenson Complex Closed By,12/14/2024,0,Stevenson Complex,Closed By
+27,2024016738,"Tamper w/Sec, Fire, or Life Safety",12/14/2024,12:01:00,12/14/2024,12:01:00,NA,Patterson Hall West Closed By,12/14/2024,0,Patterson Hall West,Closed By
+28,2024016739,"Tamper w/Sec, Fire, or Life Safety",12/14/2024,15:30:00,12/14/2024,15:30:00,NA,Stevenson Complex Closed By,12/14/2024,0,Stevenson Complex,Closed By
+29,2024016743,"Tamper w/Sec, Fire, or Life Safety",12/14/2024,16:08:00,12/14/2024,16:08:00,NA,Patterson Hall West Closed By,12/14/2024,0,Patterson Hall West,Closed By
+30,2024016744,"Tamper w/Sec, Fire, or Life Safety",12/14/2024,16:17:00,12/14/2024,16:17:00,NA,Stevenson Complex Closed By,12/14/2024,0,Stevenson Complex,Closed By
+31,2024016745,"Tamper w/Sec, Fire, or Life Safety",12/14/2024,16:50:00,12/14/2024,16:50:00,NA,Stevenson Complex Closed By,12/14/2024,0,Stevenson Complex,Closed By
+32,2024016748,"Tamper w/Sec, Fire, or Life Safety",12/14/2024,16:59:00,12/14/2024,16:59:00,NA,Patterson Hall West Closed By,12/14/2024,0,Patterson Hall West,Closed By
+33,2024016749,"Tamper w/Sec, Fire, or Life Safety",12/14/2024,15:13:00,12/14/2024,15:13:00,NA,Grant Complex Closed By,12/14/2024,0,Grant Complex,Closed By
+34,2024016750,"Tamper w/Sec, Fire, or Life Safety",12/14/2024,15:49:00,12/14/2024,15:49:00,NA,Grant Complex Closed By,12/14/2024,0,Grant Complex,Closed By
+35,2024016751,Possess Cannabis <10 gm,12/14/2024,19:22:00,12/14/2024,19:22:00,NA,Grant Complex Closed By,12/14/2024,0,Grant Complex,Closed By
+36,2024016752,"Tamper w/Sec, Fire, or Life Safety",12/14/2024,12:23:00,12/14/2024,12:23:00,NA,Stevenson Complex Closed By,12/14/2024,0,Stevenson Complex,Closed By
+37,2024016753,"Tamper w/Sec, Fire, or Life Safety",12/14/2024,19:42:00,12/14/2024,19:42:00,NA,Stevenson Complex Closed By,12/14/2024,0,Stevenson Complex,Closed By
+38,2024016755,"Tamper w/Sec, Fire, or Life Safety",12/14/2024,19:46:00,12/14/2024,19:46:00,NA,Grant Complex Closed By,12/14/2024,0,Grant Complex,Closed By
+39,2024016756,"Tamper w/Sec, Fire, or Life Safety",12/14/2024,21:52:00,12/14/2024,21:52:00,NA,Stevenson Complex Closed By,12/14/2024,0,Stevenson Complex,Closed By
+40,2024016757,"Tamper w/Sec, Fire, or Life Safety",12/14/2024,13:15:00,12/14/2024,13:15:00,NA,Neptune North Closed By,12/14/2024,0,Neptune North,Closed By
+41,2024016779,"Tamper w/Sec, Fire, or Life Safety",12/14/2024,22:59:00,12/14/2024,22:59:00,NA,Grant Complex Closed By,12/14/2024,0,Grant Complex,Closed By
+42,2024016794,Illegal Possession Of Alcohol By Minor,12/14/2024,15:53:00,12/14/2024,15:53:00,NA,Neptune North Closed By,12/14/2024,0,Neptune North,Closed By
+43,2024016655,Criminal Trespass To Vehicle,12/15/2024,14:47:00,12/15/2024,14:25:00,NA,Stevenson South Unfounded,12/15/2024,0,Stevenson South,Unfounded
+44,2024016742,Illegal Possession Of Alcohol By Minor,12/15/2024,14:35:00,12/15/2024,14:35:00,NA,Patterson Hall East Closed By,12/15/2024,0,Patterson Hall East,Closed By
+45,2024016781,"Tamper w/Sec, Fire, or Life Safety",12/15/2024,15:33:00,12/15/2024,15:33:00,NA,Grant Complex Closed By,12/15/2024,0,Grant Complex,Closed By
+46,2024016782,"Tamper w/Sec, Fire, or Life Safety",12/15/2024,10:31:00,12/15/2024,10:31:00,NA,Grant Complex Closed By,12/15/2024,0,Grant Complex,Closed By
+47,2024016783,"Tamper w/Sec, Fire, or Life Safety",12/15/2024,13:05:00,12/15/2024,13:05:00,NA,Stevenson Complex Closed By,12/15/2024,0,Stevenson Complex,Closed By
+48,2024016785,"Tamper w/Sec, Fire, or Life Safety",12/15/2024,12:57:00,12/15/2024,12:57:00,NA,Stevenson South Closed By,12/15/2024,0,Stevenson South,Closed By
+49,2024016786,"Tamper w/Sec, Fire, or Life Safety",12/15/2024,15:21:00,12/15/2024,15:21:00,NA,Stevenson Complex Closed By,12/15/2024,0,Stevenson Complex,Closed By
+50,2024016792,"Tamper w/Sec, Fire, or Life Safety",12/15/2024,13:04:00,12/15/2024,13:04:00,NA,Neptune West Closed By,12/15/2024,0,Neptune West,Closed By
+51,2024016797,Illegal Possession Of Alcohol By Minor,12/15/2024,11:42:00,12/15/2024,11:42:00,NA,Grant Complex Closed By,12/15/2024,0,Grant Complex,Closed By
+52,2024016732,"Tamper w/ Sec. Fire, or Life Safety",12/16/2024,13:58:00,12/16/2024,13:58:00,NA,Stevenson Complex Closed By,12/16/2024,0,Stevenson Complex,Closed By
+53,2024016789,"Tamper w/ Sec. Fire, or Life Safety",12/16/2024,00:22:00,12/16/2024,00:22:00,NA,Patterson Hall East Closed By,12/16/2024,0,Patterson Hall East,Closed By
+54,2024016791,"Tamper w/ Sec. Fire, or Life Safety",12/16/2024,00:30:00,12/16/2024,00:30:00,NA,Patterson Hall East Closed By,12/16/2024,0,Patterson Hall East,Closed By
+55,2024016740,Theft $500 and Under,12/17/2024,12:34:00,12/17/2024,11:00:00,NA,Swen Parson Suspended,12/17/2024,0,Swen Parson,Suspended
+56,2024016762,Theft Over $500,12/17/2024,08:08:00,12/17/2024,06:30:00,NA,Music Building Suspended,12/17/2024,0,Music Building,Suspended
+57,2024016868,Theft $500 and Under,12/19/2024,01:01:00,12/19/2024,01:01:00,NA,Neptune North Open,12/19/2024,0,Neptune North,Open
+58,2024015140,Theft $500 and Under,11/15/2024,06:17:00,11/15/2024,06:00:00,NA,Altgeld Hall Suspended,12/24/2024,0,Altgeld Hall,Suspended

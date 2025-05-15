@@ -13,6 +13,7 @@ from crimesprocessing import *
 # Path to your PDF file
 pdf = pdfplumber.open('/Users/devin/carcrashreader_app/crime_pdfs/20230802.pdf')  # Update this path as necessary
 
+
 # Function to process each page in the PDF
 def process_pdf(path):
     with pdfplumber.open(path) as pdf:
@@ -92,7 +93,7 @@ def main(folder_path):
 
 
 # Output the accumulated text
-    file_path = 'output2.csv'
+    file_path = 'output2_1_25.csv'
 
     with open(file_path, mode='w', newline='') as file:
         writer = csv.writer(file)
@@ -103,7 +104,7 @@ def main(folder_path):
 
 if __name__ == '__main__':
 
-    folder_path = "/Users/devin/carcrashreader_app/crime_pdfs2"
+    folder_path = "/Users/devin/carcrashreader_app/1_25_crime"
     main(folder_path)
 
     #pdf_manager = PDFManager(folder_path)

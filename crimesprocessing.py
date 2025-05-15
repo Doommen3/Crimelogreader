@@ -1,6 +1,5 @@
 import pandas
 import pandas as pd
-from transcript_reader import *
 import numpy as np
 from crimesreader import *
 import re
