@@ -1,0 +1,18 @@
+# Secrets / local config
+.env
+*.key
+*.pem
+id_rsa*
+credentials*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+pymupdf-venv/
+*-venv/
+
+# Editors / OS
+.idea/
+.DS_Store
